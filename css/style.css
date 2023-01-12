@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav {
+  display: flex;
+  height: 3rem;
+}
+nav li {
+  list-style: none;
+  margin: auto;
+  font-size: 1.1rem;
+  font-family: 'Ubuntu';
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+h1 {
+  margin: auto;
+}
+header {
+  background-color: beige;
+  font-family: 'Ubuntu';
+}
+.about-info{
+    display: flex;
+    justify-content: center;
+}
+.about-info p{
+    text-align: center;
+}
+.a1{
+    margin: auto;
+}
+.a2{
+    margin: auto;
+}
+img{
+    height: 300px;
+}
